@@ -1,4 +1,5 @@
 # pip install ex_Oracle
+# 치킨 피자 탕수육 짜장면 짬뽕
 import cx_Oracle
 
 conn = cx_Oracle.connect('scott','tiger','192.168.1.17:1521/XE')
